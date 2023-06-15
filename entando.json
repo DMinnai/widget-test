@@ -1,0 +1,9 @@
+{
+    "microservices": [],
+    "microfrontends": [],
+    "svc": [],
+    "name": "test-template",
+    "version": "0.0.1",
+    "description": "parent - child widget dependency",
+    "type": "bundle"
+}

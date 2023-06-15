@@ -1,0 +1,17 @@
+descriptorVersion: v5
+name: test
+parentName: global:homepage
+titles:
+  en: Home test 
+  it: Home test
+pageModel: agid_template
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets:
+  - name: agi_language
+    config: null
+    pos: 1
